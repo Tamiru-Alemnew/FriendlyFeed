@@ -6,6 +6,6 @@ This Django-based application with Django REST Framework allows users to create,
 ## Features
 
 - **Post Creation:** Create and edit posts.
-- **Profile Management:** Update user profiles data and picture.
+- **Profile Management:** Update user profiles, including profile picture upload with resizing..
 - **Login and Logout:** Secure authentication.
 - **Post Filtering:** Filter posts by author.
